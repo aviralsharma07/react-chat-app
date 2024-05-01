@@ -4,6 +4,16 @@ Live Project Link: [React Chat App](https://chat-app-avi.netlify.app/)
 
 This is a React-based chat application that utilizes Firebase for storage and authentication. It uses Zustand as a state management tool and provides features for real-time messaging.
 
+## features
+
+1. Real-time chat functionality with instant messaging capabilities.
+2. Secure user authentication and data storage using Firebase.
+3. Efficient state management with Zustand.
+4. Custom UI components for a unique chat experience.
+5. User management features including adding connections and blocking unwanted interactions.
+6. Real-time data updates and synchronization with Firebase Firestore.
+7. Responsive design for seamless user experience across devices.
+
 ## Folder Structure
 
 ```
