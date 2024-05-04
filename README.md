@@ -1,6 +1,6 @@
 # React Chat App
 
-Live Project Link: [React Chat App](https://chat-app-avi.netlify.app/)
+Live Project Link: [React Chat App](https://chatnest-app-avi.netlify.app/)
 
 This is a React-based chat application that utilizes Firebase for storage and authentication. It uses Zustand as a state management tool and provides features for real-time messaging.
 
